@@ -15,6 +15,7 @@ Hey Tuan here, born in Canada, in the year 2006 and a current undergrad CS stude
 
 - Balisong Flipping
    - I own a BBsuperfly Cuda Series Trainer (Not a sharp blade and unsharpenable), so its just a extremely expensive fidget toy...
+   - I am not skilled at flipping, but I can do a cool balisong trick here and there. 
 
   
 - Origami
