@@ -7,6 +7,7 @@ Hey Tuan here, born in Canada, in the year 2006 and a current undergrad CS stude
 - Gaming
    - I mainly play FPS's but I am a mix player
    - Current Games:
+      - Factorio
       - The Finals
       - Warframe
       - Spin Rhythm XD
@@ -22,5 +23,5 @@ Hey Tuan here, born in Canada, in the year 2006 and a current undergrad CS stude
    - I am by all means not a expert at origami nor can make original creations, but I enjoy folding challenging designs
    - Currently the most challenging one I can make is Jo Nakashima's Origami Eagle
      
--3D art
+- 3D art
    - I do the occasional 3D render in Blender
