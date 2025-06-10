@@ -2,7 +2,7 @@
 
 Hey Tuan here, born in Canada, in the year 2006 and a current undergrad CS student.
 
-## Hobbies (not in order)
+## Main Hobbies (not in order)
 
 - Gaming
    - I mainly play FPS's but I am a mix player
