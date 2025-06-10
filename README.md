@@ -1,4 +1,2 @@
 ## Tuan Vo
-its not vo tuan btw
-
-you have enough bones in your body to make a skeleton... probably...
+Hey Tuan here, born in 2006 and a current undergrad CS student
