@@ -2,7 +2,7 @@
 
 Hey Tuan here, born in Canada in the year 2006 and a current undergrad CS student.
 
-## hobbies
+## Hobbies (not in order)
 
 1. Gaming
    - The Finals
