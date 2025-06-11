@@ -25,4 +25,4 @@ Hey Tuan here, born in Canada, in the year 2006 and a current undergrad CS stude
      
 - 3D art
    - I do the occasional 3D render in Blender
-   - Competed in a schoolboard wide art competition in high school and placed 3rd 
+   - Competed in a highschool schoolboard art competition and placed 3rd 
